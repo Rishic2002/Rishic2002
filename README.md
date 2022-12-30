@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishic2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishic2002" /> </p>
 
 - 🔭 I’m currently working on **Flutter Projects**
-- - 📫 How to reach me **Dakshrishi123@gmail.com**
+- 📫 How to reach me **Dakshrishi123@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
