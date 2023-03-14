@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Rishi Chhabra</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=A+Passionate+Flutter+Developer"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishic2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishic2002" /> </p>
 
