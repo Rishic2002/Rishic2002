@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter <br>🌱 I’m currently learning Cloud and DB
+<h1 align="center">Hi 👋, I'm Rishi Chhabra</h1>
+<h3 align="center">A passionate Flutter Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishic2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishic2002" /> </p>
+
+- 🔭 I’m currently working on **Flutter**
+- 📫 How to reach me **Dakshrishi123@gmail.com**
+
+
 
 [![](https://visitcount.itsvg.in/api?id=Rishic2002&icon=1&color=5)](https://visitcount.itsvg.in)
 
