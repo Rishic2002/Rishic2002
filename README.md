@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on **Flutter,AWS & TensorFlow**
 - 📫 How to reach me **Rishic2002@icloud.com**
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 
 ## 🌐 Socials:
