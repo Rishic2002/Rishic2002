@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishic2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishic2002" /> </p>
 
-- 🔭 I’m currently working on **Flutter,AWS & TensorFlow**
+- 🔭 I’m currently working on **Flutter,Cloud Computing & TensorFlow**
 - 📫 How to reach me **Rishic2002@icloud.com**
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
